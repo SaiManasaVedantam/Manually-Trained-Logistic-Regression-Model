@@ -1,4 +1,4 @@
-# Manually-Trained-Logistic-Regression-Model
+# Manually-Trained-Logistic-Regression-Model (Sep 2021)
 This project deals with implementing the Linear Regression model on **Titanic dataset** which is uploaded in this repository in two parts as Train set & Test set.
 
 Python is highly advantageous in using the readily available functions for machine learning algorithms BUT this is in a way leading to a disadvantage for Artificial Intelligence enthusiasts who want to dig deep into details & learn the algorithms with critical optimization techniques.
